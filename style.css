@@ -7,7 +7,10 @@ body{
     text-align: center;
     font-family: 'Happy Monkey' , cursive;
 }
-
+h1,h2{
+    display: flexbox;
+    background-color: rgb(16, 102, 177);
+}
 
 #bff-img{
     width: 150px;
