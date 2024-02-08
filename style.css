@@ -1,0 +1,15 @@
+
+
+body{
+    background: rgb(13, 134, 240);
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Happy Monkey' , cursive;
+}
+
+
+#bff-img{
+    width: 150px;
+    border-radius: 50%;
+    border: 6px solid 3efb069;
+}
